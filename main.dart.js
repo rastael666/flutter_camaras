@@ -98276,7 +98276,7 @@ $0(){var s=this.a
 s.id=s.go=this.b},
 $S:0}
 A.asI.prototype={
-$0(){var s=Date.now(),r=this.a,q=r.go,p=this.b,o=B.c.bV(Math.abs(p.a-q.a),80,800),n=A.aMt(B.l6,null,null,B.c.bV(Math.abs(p.b-r.go.b),120,1200),"rack_"+s,"","Rack IT","",q,42,0,o)
+$0(){var s=Date.now(),r=this.a,q=r.go,p=this.b,o=B.c.bV(Math.abs(p.a-q.a),120,800),n=A.aMt(B.l6,null,null,B.c.bV(Math.abs(p.b-r.go.b),160,1200),"rack_"+s,"","Rack IT","",q,42,0,o)
 o=r.at
 o===$&&A.a()
 o[r.ax].d.push(n)
