@@ -99409,7 +99409,7 @@ B.b.P(q,A.qO(i.b.ged(),new A.a3I(i,k),!0,t.EP))
 m.push(A.bJ(A.b([B.a57,B.bl,A.uK(j,B.a4L,q,new A.a3J(k),r,B.jV,g,t.bo)],l),B.r,B.m,B.Z,0))}m.push(A.cY(j,j,j,j,B.mv,j,j,k.x,j,j,j,"Eliminar C\xe1mara"))
 i=k.w
 g=h.a
-return A.c8(j,A.ci(A.b([A.bJ(m,B.r,B.m,B.z,0),B.e8,A.bJ(A.b([A.dU(new A.Q1(h,i,new A.a3v(k),A.aet(0,"pan_"+g,355,0,i,new A.a3w(k),h.d),j),1),B.nZ,A.dU(new A.RO(h,i,new A.a3x(k),A.aet(0,"tilt_"+g,75,0,i,new A.a3y(k),h.r),j),1),B.nZ,A.dU(new A.N6(h,i,new A.a3z(k),A.aet(1,"h_"+g,6,1.2,i,new A.a3A(k),h.f),j),1),B.nZ,A.dU(new A.F6(h,i,new A.a3B(k),j),1)],l),B.r,B.m,B.z,0)],l),B.a8,B.m,B.Z),B.n,j,j,B.kR,j,j,j,B.lG,j,j,j)}}
+return A.c8(j,A.ci(A.b([A.bJ(m,B.r,B.m,B.z,0),B.e8,A.bJ(A.b([A.dU(new A.Q1(h,i,new A.a3v(k),A.aet(0,"pan_"+g,355,0,i,new A.a3w(k),h.d),j),1),B.nZ,A.dU(new A.RO(h,i,new A.a3x(k),A.aet(0,"tilt_"+g,75,0,i,new A.a3y(k),h.r),j),1),B.nZ,A.dU(new A.N6(h,i,new A.a3z(k),A.aet(1,"h_"+g,12,1.2,i,new A.a3A(k),h.f),j),1),B.nZ,A.dU(new A.F6(h,i,new A.a3B(k),j),1)],l),B.r,B.m,B.z,0)],l),B.a8,B.m,B.Z),B.n,j,j,B.kR,j,j,j,B.lG,j,j,j)}}
 A.a3s.prototype={
 $1(a){return a.e===B.aH},
 $S:28}
@@ -99772,7 +99772,7 @@ K(a){var s=this,r=null,q=s.c,p=t.p,o=A.b([A.dU(A.av("Altura (H): "+B.c.T(q.f,1)+
 o.push(s.f)
 o=A.bJ(o,B.r,B.m,B.z,0)
 q=q.f
-return A.ci(A.b([o,A.jR(B.y3,r,6,1.2,new A.a9d(s),s.e,q)],p),B.a8,B.m,B.z)}}
+return A.ci(A.b([o,A.jR(B.y3,r,12,1.2,new A.a9d(s),s.e,q)],p),B.a8,B.m,B.z)}}
 A.a9d.prototype={
 $1(a){return this.a.d.$0()},
 $S:8}
